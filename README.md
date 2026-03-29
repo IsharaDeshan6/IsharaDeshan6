@@ -1,5 +1,11 @@
 # Hey there! I'm Ishara Deshan 👋 
 
+### 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IsharaDeshan6/IsharaDeshan6/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Graduate;Full+Stack+Java+Developer;Next.js+%26+Three.js+Enthusiast;3rd+Place+National+Hackathon+Winner" alt="Typing SVG" />
 </p>
