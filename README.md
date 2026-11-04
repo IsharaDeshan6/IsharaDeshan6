@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-eight-peach-37.vercel.app/" target="_blank">
+  <a href="https://www.ishara-deshan.tech/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_View_My_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
